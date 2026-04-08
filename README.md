@@ -4,16 +4,16 @@ i build whatever i think is worth building.
 /stack
 
 
-![OSINT](https://img.shields.io/badge/OSINT-7C3AED?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon-6D28D9?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-5B21B6?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-0F172A?style=for-the-badge&logoColor=2DD4BF)
+![Recon](https://img.shields.io/badge/Recon-0F172A?style=for-the-badge&logoColor=2DD4BF)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-0F172A?style=for-the-badge&logoColor=2DD4BF)
 
-![Automation](https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge)
-![Tool Builder](https://img.shields.io/badge/Tool%20Builder-7C3AED?style=for-the-badge)
-![Web Deployment](https://img.shields.io/badge/Web%20Deployment-6D28D9?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-14B8A6?style=for-the-badge&logoColor=000)
+![Tool Builder](https://img.shields.io/badge/Tool%20Builder-14B8A6?style=for-the-badge&logoColor=000)
+![Web Deployment](https://img.shields.io/badge/Web%20Deployment-14B8A6?style=for-the-badge&logoColor=000)
 
-![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-F43F5E?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=2DD4BF)
+![HTML](https://img.shields.io/badge/HTML-0F172A?style=for-the-badge&logo=html5&logoColor=2DD4BF)
 
 I respect every feedback or opinion
 
