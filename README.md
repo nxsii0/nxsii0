@@ -1,6 +1,8 @@
 ## This is nxsii0
 i just do whatever i think is cool 
 My skills:
+
+
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
 ![Recon](https://img.shields.io/badge/Recon-000000?style=for-the-badge)
 ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000000?style=for-the-badge)
