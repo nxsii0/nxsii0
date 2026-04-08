@@ -11,8 +11,8 @@ My skills:
 ![Tool Builder](https://img.shields.io/badge/Tool%20Builder-6D28D9?style=for-the-badge&logoColor=white)
 ![Web Deployment](https://img.shields.io/badge/Web%20Deployment-5B21B6?style=for-the-badge&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4DA6?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-FF2E93?style=for-the-badge&logo=html5&logoColor=white)
 
 I respect every feedback or opinion
 
