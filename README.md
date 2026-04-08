@@ -3,14 +3,16 @@ i just do whatever i think is cool
 My skills:
 
 
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon-000000?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-000000?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge)
-![Tool Builder](https://img.shields.io/badge/Tool%20Builder-000000?style=for-the-badge)
-![Web Deployment](https://img.shields.io/badge/Web%20Deployment-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
+![OSINT](https://img.shields.io/badge/OSINT-6C2BD9?style=for-the-badge&logoColor=white)
+![Recon](https://img.shields.io/badge/Recon-5A1FCF?style=for-the-badge&logoColor=white)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-4C1D95?style=for-the-badge&logoColor=white)
+
+![Automation](https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge&logoColor=white)
+![Tool Builder](https://img.shields.io/badge/Tool%20Builder-6D28D9?style=for-the-badge&logoColor=white)
+![Web Deployment](https://img.shields.io/badge/Web%20Deployment-5B21B6?style=for-the-badge&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
 
 I respect every feedback or opinion
 
