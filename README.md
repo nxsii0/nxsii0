@@ -1,19 +1,19 @@
 ## This is nxsii0
-i just do whatever i think is cool..
+i build whatever i think is worth building.
 
-My skills:
+/stack
 
 
-![OSINT](https://img.shields.io/badge/OSINT-6C2BD9?style=for-the-badge&logoColor=white)
-![Recon](https://img.shields.io/badge/Recon-5A1FCF?style=for-the-badge&logoColor=white)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-4C1D95?style=for-the-badge&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-7C3AED?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon-6D28D9?style=for-the-badge)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-5B21B6?style=for-the-badge)
 
-![Automation](https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge&logoColor=white)
-![Tool Builder](https://img.shields.io/badge/Tool%20Builder-6D28D9?style=for-the-badge&logoColor=white)
-![Web Deployment](https://img.shields.io/badge/Web%20Deployment-5B21B6?style=for-the-badge&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge)
+![Tool Builder](https://img.shields.io/badge/Tool%20Builder-7C3AED?style=for-the-badge)
+![Web Deployment](https://img.shields.io/badge/Web%20Deployment-6D28D9?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-FF4DA6?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-FF2E93?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F43F5E?style=for-the-badge&logo=html5&logoColor=white)
 
 I respect every feedback or opinion
 
