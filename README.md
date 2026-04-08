@@ -1,5 +1,6 @@
 ## This is nxsii0
-i just do whatever i think is cool 
+i just do whatever i think is cool..
+
 My skills:
 
 
